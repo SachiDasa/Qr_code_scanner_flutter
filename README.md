@@ -1,1 +1,1 @@
-# Qr_code_scanner_flutter  is the first front end 
+Qr_code_scanner_  with _flutter  
